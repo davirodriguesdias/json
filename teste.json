@@ -1,0 +1,10 @@
+{
+    "nome":"Davi",
+    "idade":18,
+    "trabalhando":true,
+    "hobbies":["Ler", "Jogar", "Programar"],
+    "detalhes": {
+        "profissao": "professor",
+        "escola":"liceu"
+    }
+}   
